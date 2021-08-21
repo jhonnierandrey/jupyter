@@ -1,2 +1,3 @@
-# jupyter
-Jupyter Notebooks
+# Jupyter Notebooks
+
+> Personal notebooks for my Data Science / ML / AI practices/ models.
