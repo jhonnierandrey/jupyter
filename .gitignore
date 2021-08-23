@@ -1,4 +1,5 @@
 # mix
+.DS_Store
 templates/
 
 # Byte-compiled / optimized / DLL files
